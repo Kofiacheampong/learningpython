@@ -1,0 +1,11 @@
+{
+  "python.analysis.autoImportCompletions": true,
+  "cSpell.words": [
+    "cowsay",
+    "Kofi",
+    "passw"
+  ],
+  "python.analysis.extraPaths": [
+    "./cs50"
+  ]
+}
